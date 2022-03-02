@@ -5,7 +5,7 @@ public class Exercicio5Versao2 {
     public static void main(String[] args) {
         Scanner valor = new Scanner(System.in);
 
-        //Número aleatório
+        //Gerando um número aleatório entre 1 a 10
         Random rand = new Random();
         int x = rand.nextInt(10) + 1;
 
