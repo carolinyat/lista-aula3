@@ -25,6 +25,7 @@ public class Exercicio3 {
                     System.out.println("Aluno reprovado");
                 }
             }
+        valor.close();
         }
     }
 
