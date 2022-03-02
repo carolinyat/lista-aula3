@@ -20,7 +20,7 @@ public class Exercicio6 {
             else {
                 System.out.println("Número digitado menor que o gerado!");
             }
-            }while(num != x); 
+            }while(num != x);
 
         System.out.println("Valor correto!");
 
